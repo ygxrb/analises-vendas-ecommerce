@@ -1,2 +1,2 @@
 # analises-vendas-ecommerce
-repositório para analises de vendas de e-commerce com python
+Projeto de análise de dados com o dataset da Olist (Python + Power BI)
