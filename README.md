@@ -7,12 +7,6 @@ Este projeto utiliza o dataset público da [Olist](https://www.kaggle.com/datase
 - Power BI
 - Jupyter Notebook
 
-## 📂 Estrutura do projeto
-- `data/` → contém os datasets (ou link para o Kaggle).
-- `notebooks/` → análises passo a passo.
-- `src/` → funções reutilizáveis em Python.
-- `outputs/` → CSV final tratado e gráficos gerados.
-
 ## 🔑 Principais KPIs
 - Receita total e mensal
 - Ticket médio
